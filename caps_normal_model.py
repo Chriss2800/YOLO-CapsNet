@@ -1,3 +1,4 @@
+#adopted from https://github.com/cezannec/capsule_net_pytorch/tree/master
 import itertools
 import math
 import matplotlib.pyplot as plt
